@@ -3,8 +3,8 @@ If you feel changing _Part_ in the **Feeders** tab boring
 
 **Or**
 
-If your design has hundreds of discretes all in quantities of one’s or two, then a Blinds feeder is the most idle solution.
-A rejected blank PCB with alignment holes for dowel pins is an ingenious Blinds feeder hosting up to a dozen strip feeders. The PnP job is broken down to _runs_ and each run is associated with its own Blinds Feeder.
+If your design has hundreds of discretes all in quantities of one’s or two, then you would probaly using Strip Feeders.
+A rejected blank PCB with alignment holes for dowel pins is an ingenious Strip Feeder Holder hosting tens of feeders. As feeders increase feeder clutter also increase and now selecting the feeder and the right part is cluttered.
 Without going into the boring details this option of saving and loading the feeders along with deleting all “placements” and “parts” other than the current _run's_ clears clutter and makes placement more efficient to work on.
 These two scripts
 - **“1 Open Feeders.java”**
